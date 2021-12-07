@@ -3,7 +3,7 @@
 	url = https://github.com/deskvox/deskvox
 [submodule "share/covise/web/noVNC"]
 	path = share/covise/web/noVNC
-	url = https://github.com/kanaka/noVNC
+	url = https://github.com/wangxinchd/noVNC.git
 [submodule "src/3rdparty/visionaray"]
 	path = src/3rdparty/visionaray
 	url = https://github.com/szellmann/visionaray
@@ -12,7 +12,7 @@
 	url = https://github.com/hlrs-vis/nvtop.git
 [submodule "src/module/univiz"]
 	path = src/module/univiz
-	url = https://github.com/vistle/univiz.git
+	url = https://github.com/wangxinchd/univiz.git
 [submodule "src/kernel/file"]
 	path = src/kernel/file
-	url = https://github.com/hlrs-vis/covise-file.git
+	url = https://github.com/wangxinchd/covise-file.git
